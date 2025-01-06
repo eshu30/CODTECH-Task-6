@@ -71,7 +71,8 @@ A fully functional **real-time chat application** featuring:
 ---
 
 ## Screenshots
-![Chat Application Interface](https://github.com/user-attachments/assets/e61b172c-f667-44b3-a533-31e33d125d5f)
+![image](https://github.com/user-attachments/assets/ba44849e-5b89-4226-885a-7b91a87c42a5)
+
 
 ---
 
